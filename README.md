@@ -2,7 +2,6 @@
   <body>
     <h1 align="center">Hi 👋 I am Sangamithra</h1>
     <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development, UI/UX and Web3. Excited to explore and learn in these areas!</h3>
-    <p align="center"> <a href="[https://www.linkedin.com/in/yashwanth-chandrakumar-948520255/](https://www.linkedin.com/in/sangamithra-m-1b7649253/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth" /></a> </p>
 
 
 - 🗨️ Ask me about ♦️ HTML / CSS / JS / React JS ♦️
@@ -25,7 +24,7 @@
 
 
 
-<h3 align-"left">🔥My Stats</h3>
+<h3 align-"left">My Stats🔥</h3>
 <p align="center">
   <a href="https://github.com/Sangamithra08">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangamithra08&theme=transparent" alt="Sangamithra08"/>
