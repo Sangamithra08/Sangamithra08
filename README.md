@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">Hi 👋 I am Sangamithra</h1>
-    <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development, UI/UX and Web3. Excited to explore and learn in these areas!</h3>
+    <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development, UI/UX and Web3</h3>
 
 
 - 🗨️ Ask me about ♦️ HTML / CSS / JS / React JS ♦️
@@ -42,3 +42,5 @@
 <a href="https://github.com/Sangamithra08">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sangamithra08&show_icons=true&locale=en&theme=dark&layout=compact" alt="Sangamithra08">
 </a>
+
+</p>
