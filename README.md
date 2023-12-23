@@ -4,12 +4,12 @@
     <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development, UI/UX and Web3</h3>
 
 
-- 🗨️ Ask me about ♦️ HTML / CSS / JS / React JS ♦️
+- 🗨️ Ask me about  HTML / CSS / JS / React JS ♦
 
 - 📫 Reach me at mithramurugan08@gmail.com
 
 - 💡 Code fueled by beats; debugs to melodies 🎧✨
-<h3 align-"left">📜Languages and frameworks</h3>
+<h3 align-"left">Languages and frameworks</h3>
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sangamithra08)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Sangamithra08)
@@ -24,7 +24,7 @@
 
 
 
-<h3 align-"left">My Stats🔥</h3>
+<h3 align-"left">My Stats</h3>
 <p align="center">
   <a href="https://github.com/Sangamithra08">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangamithra08&theme=transparent" alt="Sangamithra08"/>
