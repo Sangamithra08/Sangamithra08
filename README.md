@@ -2,6 +2,8 @@
   <body>
     <h1 align="center">Hi 👋 I am Sangamithra</h1>
     <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development, UI/UX and Web3</h3>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sangamithra08&label=Profile%20views&color=0e75b6&style=flat" alt="Sangamithra" /> </p>
+
 
 
 - 🗨️ Ask me about  HTML / CSS / JS / React JS ♦
