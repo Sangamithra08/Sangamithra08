@@ -21,6 +21,8 @@
 [![MUI](https://img.shields.io/badge/MUI-black.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Sangamithra08)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Sangamithra08)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/Sangamithra08)
+[![SpringBoot](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Sangamithra08)
+[![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Sangamithra08)
 [![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Sangamithra08)
 [![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Sangamithra08)
 
