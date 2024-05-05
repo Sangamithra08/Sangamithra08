@@ -1,12 +1,12 @@
 <html>
   <body>
     <h1 align="center">Hi 👋 I am Sangamithra</h1>
-    <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development, UI/UX and Web3</h3>
+    <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development</h3>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sangamithra08&label=Profile%20views&color=0e75b6&style=flat" alt="Sangamithra" /> </p>
 
 
 
-- 🗨️ Ask me about  HTML / CSS / JS / React JS ♦
+- 🗨️ Ask me about  HTML / CSS / JS / React JS 
 
 - 📫 Reach me at mithramurugan08@gmail.com
 
@@ -29,17 +29,12 @@
 <h3 align-"left">My Stats</h3>
 <p align="center">
   <a href="https://github.com/Sangamithra08">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangamithra08&theme=transparent" alt="Sangamithra08"/>
-  </a>
-  <a href="https://github.com/Sangamithra08">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangamithra08&hide_border=true&card_width=338&theme=dark" alt="Sangamithra08" />
   </a>
   <a href="https://github.com/Sangamithra08">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sangamithra08&theme=dark"alt="Sangamithra08" />
   </a>
-  <a href="https://github.com/Sangamithra08">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sangamithra08&show_icons=true&locale=en&theme=dark" alt="Sangamithra08" />
-  </a>
+  
 <br>
 <a href="https://github.com/Sangamithra08">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sangamithra08&show_icons=true&locale=en&theme=dark&layout=compact" alt="Sangamithra08">
