@@ -1,17 +1,14 @@
 <html>
   <body>
-    <h1 align="center">Hi 👋 I am Sangamithra</h1>
+    <h1 align="center">Hi there👋 I am Sangamithra</h1>
     <h3 align="center">I'm a dedicated student from India with a keen interest in Web Development</h3>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sangamithra08&label=Profile%20views&color=0e75b6&style=flat" alt="Sangamithra" /> </p>
-
-
 
 - 🗨️ Ask me about  HTML / CSS / JS / React JS 
 
 - 📫 Reach me at mithramurugan08@gmail.com
 
-- 💡 Code fueled by beats; debugs to melodies 🎧✨
-<h3 align-"left">Languages and frameworks</h3>
+<h3 align-"left">Languages & frameworks</h3>
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sangamithra08)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Sangamithra08)
@@ -28,14 +25,12 @@
 
 
 
-<h3 align-"left">My Stats</h3>
+<h3 align-"left">Stats</h3>
 <p align="center">
   <a href="https://github.com/Sangamithra08">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangamithra08&hide_border=true&card_width=338&theme=dark" alt="Sangamithra08" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangamithra08&hide_border=true&card_width=488&theme=dark" alt="Sangamithra08" />
   </a>
-  <a href="https://github.com/Sangamithra08">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sangamithra08&theme=dark"alt="Sangamithra08" />
-  </a>
+ 
   
 <br>
 <a href="https://github.com/Sangamithra08">
